@@ -1,0 +1,59 @@
+X Lossless Decoder version 20240511 (157.1)
+
+XLD extraction logfile from 2024-11-12 21:12:43 -0800
+
+Lady Gaga & Bruno Mars / Die With a Smile
+
+Used drive : HL-DT-ST BD-RE BU40N (revision 1.00)
+Media type : Pressed CD
+
+Ripper mode             : XLD Secure Ripper
+Disable audio cache     : OK for the drive with a cache less than 1375KiB
+Make use of C2 pointers : NO
+Read offset correction  : 6
+Max retry count         : 20
+Gap status              : Analyzed, Appended (except HTOA)
+
+TOC of the extracted CD
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  | 00:00:00 | 04:11:51 |         0    |    18875   
+
+AccurateRip Summary (DiscID: 000049bc-00009379-0200fb01)
+    Track 01 : OK (v2, confidence 2/2)
+        ->All tracks accurately ripped.
+
+All Tracks
+    Album gain               : -7.14 dB
+    Peak                     : 0.999969
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+Track 01
+    Filename : /Users/danielgarcia/Documents/Music/Rips/Lady Gaga & Bruno Mars - Die With a Smile (2024) [FLAC]/01 Die With a Smile.flac
+    Pre-gap length : 00:02:00
+
+    Track gain               : -7.14 dB
+    Peak                     : 0.999969
+    CRC32 hash (test run)    : BE09440E
+    CRC32 hash               : BE09440E
+    CRC32 hash (skip zero)   : C95B31D8
+    AccurateRip v1 signature : C12980BF
+    AccurateRip v2 signature : FDA64D57
+        ->Accurately ripped (v2, confidence 2/2)
+    Statistics
+        Read error                           : 0
+        Jitter error (maybe fixed)           : 0
+        Retry sector count                   : 0
+        Damaged sector count                 : 0
+
+No errors occurred
+
+End of status report
+
+-----BEGIN XLD SIGNATURE-----
+d2WbmVJWVZjFAYrNz3h4IwX6aK3Ksqt9xI0DbUqWR.7mzCv6pUrdXRUJnXNQG1x26UTXSvJW8xJKxVXn1gwOwFwik5y12pjpsVvys94
+-----END XLD SIGNATURE-----
