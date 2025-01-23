@@ -1,0 +1,173 @@
+Exact Audio Copy V0.99 prebeta 5 from 4. May 2009
+
+EAC extraction logfile from 1. September 2012, 13:53
+
+Fear, and Loathing in Las Vegas / All That We Have Now
+
+Used drive  : SAMSUNG DVD-ROM SD-616E   Adapter: 1  ID: 0
+
+Read mode               : Secure
+Utilize accurate stream : Yes
+Defeat audio cache      : Yes
+Make use of C2 pointers : No
+
+Read offset correction                      : 12
+Overread into Lead-In and Lead-Out          : No
+Fill up missing offset samples with silence : Yes
+Delete leading and trailing silent blocks   : No
+Null samples used in CRC calculations       : Yes
+Used interface                              : Native Win32 interface for Win NT & 2000
+Gap handling                                : Not detected, thus appended to previous track
+
+Used output format              : User Defined Encoder
+Selected bitrate                : 320 kBit/s
+Quality                         : High
+Add ID3 tag                     : No
+Command line compressor         : C:\Archivos de programa\FLAC\flac.exe
+Additional command line options : -V -8 -T "artist=%a" -T "title=%t" -T "album=%g" -T "date=%y" -T "tracknumber=%n" -T "genre=%m" %s
+
+
+TOC of the extracted CD
+
+     Track |   Start  |  Length  | Start sector | End sector 
+    ---------------------------------------------------------
+        1  |  0:00.00 |  3:08.44 |         0    |    14143   
+        2  |  3:08.44 |  3:56.72 |     14144    |    31915   
+        3  |  7:05.41 |  3:12.06 |     31916    |    46321   
+        4  | 10:17.47 |  3:57.69 |     46322    |    64165   
+        5  | 14:15.41 |  2:00.74 |     64166    |    73239   
+        6  | 16:16.40 |  3:38.43 |     73240    |    89632   
+        7  | 19:55.08 |  3:08.07 |     89633    |   103739   
+        8  | 23:03.15 |  3:53.35 |    103740    |   121249   
+        9  | 26:56.50 |  3:50.70 |    121250    |   138569   
+       10  | 30:47.45 |  2:11.18 |    138570    |   148412   
+       11  | 32:58.63 |  3:43.18 |    148413    |   165155   
+
+
+Track  1
+
+     Filename C:\Documents and Settings\Administrador\Escritorio\JD\11jpopsuki\All That We Have Now\Acceleration.wav
+
+     Peak level 99.7 %
+     Track quality 100.0 %
+     Test CRC 1803CDAB
+     Copy CRC 1803CDAB
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  2
+
+     Filename C:\Documents and Settings\Administrador\Escritorio\JD\11jpopsuki\All That We Have Now\Scream Hard as You Can.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC CCA6D122
+     Copy CRC CCA6D122
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  3
+
+     Filename C:\Documents and Settings\Administrador\Escritorio\JD\11jpopsuki\All That We Have Now\Crossover.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 3BF52405
+     Copy CRC 3BF52405
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  4
+
+     Filename C:\Documents and Settings\Administrador\Escritorio\JD\11jpopsuki\All That We Have Now\How Old You are Never Forget Your Dream.wav
+
+     Peak level 99.7 %
+     Track quality 100.0 %
+     Test CRC 09E1DF0B
+     Copy CRC 09E1DF0B
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  5
+
+     Filename C:\Documents and Settings\Administrador\Escritorio\JD\11jpopsuki\All That We Have Now\Interlude I.wav
+
+     Peak level 99.7 %
+     Track quality 100.0 %
+     Test CRC 34C11581
+     Copy CRC 34C11581
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  6
+
+     Filename C:\Documents and Settings\Administrador\Escritorio\JD\11jpopsuki\All That We Have Now\Just Awake.wav
+
+     Peak level 99.8 %
+     Track quality 100.0 %
+     Test CRC 3395653C
+     Copy CRC 3395653C
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  7
+
+     Filename C:\Documents and Settings\Administrador\Escritorio\JD\11jpopsuki\All That We Have Now\Defeat and Beat.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 3A99D927
+     Copy CRC 3A99D927
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  8
+
+     Filename C:\Documents and Settings\Administrador\Escritorio\JD\11jpopsuki\All That We Have Now\In the End, the Choice is All Yours.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC E9C2BACA
+     Copy CRC E9C2BACA
+     Track not present in AccurateRip database
+     Copy OK
+
+Track  9
+
+     Filename C:\Documents and Settings\Administrador\Escritorio\JD\11jpopsuki\All That We Have Now\Ley-Line.wav
+
+     Peak level 99.6 %
+     Track quality 100.0 %
+     Test CRC 5C89AE82
+     Copy CRC 5C89AE82
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 10
+
+     Filename C:\Documents and Settings\Administrador\Escritorio\JD\11jpopsuki\All That We Have Now\Interlude II.wav
+
+     Peak level 99.4 %
+     Track quality 100.0 %
+     Test CRC EC11F9DD
+     Copy CRC EC11F9DD
+     Track not present in AccurateRip database
+     Copy OK
+
+Track 11
+
+     Filename C:\Documents and Settings\Administrador\Escritorio\JD\11jpopsuki\All That We Have Now\Don't Suffer Alone.wav
+
+     Peak level 100.0 %
+     Track quality 100.0 %
+     Test CRC 92BB1FB2
+     Copy CRC 92BB1FB2
+     Track not present in AccurateRip database
+     Copy OK
+
+
+None of the tracks are present in the AccurateRip database
+
+No errors occurred
+
+End of status report
